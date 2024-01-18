@@ -2,10 +2,10 @@
 
 Welcome to the IP Tracker App! This web application allows users to track and visualize the geographical details of a given IP address using the ipify API. The application utilizes React, Redux Toolkit, and Leaflet to provide a user-friendly interface for viewing IP information and the corresponding location on a map.
 
-![desktop view](./public/screenShots/desktop%20view.png)
+![desktop view](./public/screenshots/desktop%20view.png)
 _Description: desktop view ._
 
-![mobile view](./public/screenShots/mobile%20view.png)
+![mobile view](./public/screenshots/mobile%20view.png)
 _Description: mobile view._
 
 ## Features
@@ -53,7 +53,7 @@ The app will be accessible at 'http://localhost:3000' .
 
 2. Click the arrow button next to the serach bar to retieve and display the information.
 
-3.Explore the details and view the location on the map
+3. Explore the details and view the location on the map
 
 ## License
 
